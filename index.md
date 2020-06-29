@@ -17,7 +17,7 @@ Die aber -- boah! Sowas von oha. Da bleibt keine Träne im Knopfloch!
 
 ## Berühmte Worte
 
-> Wer jeden Tag eine Stunde laufen geht, verlängert zwar seine Lebenserwartung im Schnitt um circa zwei Jahre, verbraucht aber insgesamt vier Jahre seines Lebens nur fürs Laufen."
+> Wer jeden Tag eine Stunde laufen geht, verlängert zwar seine Lebenserwartung im Schnitt um circa zwei Jahre, verbraucht aber insgesamt vier Jahre seines Lebens nur fürs Laufen.
 
-> Mit Brei beginnen wir, mit Brei enden wir. Die Klammer des Lebens, letztlich ist sie das Püree."
+> Mit Brei beginnen wir, mit Brei enden wir. Die Klammer des Lebens, letztlich ist sie das Püree.
 
