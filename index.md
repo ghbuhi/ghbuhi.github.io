@@ -23,4 +23,6 @@ Die aber -- boah! Sowas von oha. Da bleibt keine Träne im Knopfloch!
 
 ## Und das isser...
 
-<a title="Foto: Udo Grimberg, Lizenz: Creative Commons by-sa-3.0 de / CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)" href="https://commons.wikimedia.org/wiki/File:2195Horst_Evers_2.JPG"><img width="512" alt="2195Horst Evers 2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2195Horst_Evers_2.JPG/512px-2195Horst_Evers_2.JPG"></a>
+<a title="Foto: Udo Grimberg, Lizenz: Creative Commons by-sa-3.0 de / CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)" href="https://commons.wikimedia.org/wiki/File:2195Horst_Evers_2.JPG">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2195Horst_Evers_2.JPG/512px-2195Horst_Evers_2.JPG"/>
+</a>
